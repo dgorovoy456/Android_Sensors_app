@@ -2,4 +2,6 @@
     <string name="app_name">HelloWorld</string>
     <string name="hello_world">Hello world! Welcome to my app!</string>
     <string name="action_settings">Settings</string>
+    <string name="zeiq_heil">Zeiq heil!</string>
+    <string name="name_button">Push Me</string>
 </resources>
